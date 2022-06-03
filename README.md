@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Tech guy in love with music and mountains!
 <img src="https://github-readme-stats.vercel.app/api?username=manisjunggrg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manisjungrg&layout=compact)](https://github.com/Nix-code/github-readme-stats)
 *I code with 😗
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-8DD6F9?style=flat-square&logo=laravel" /> 
