@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on laravel.
 - 🌱 I’m currently learning ajax.
-- 👯 I’m looking to collaborate on different projects.
+- 👯 I’m looking to collaborate on different JS frameworks.
 - 🤔 I’m looking for help with React JS.
 - 💬 Ask me about laravel.
-- 📫 How to reach me: Instagram:@_gurungmanish
+- 📫 How to reach me: [Instagram:@_gurungmanish](https://www.instagram.com/_gurungmanish/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Tech guy in love with music and mountains!
 
