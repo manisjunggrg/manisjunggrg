@@ -8,7 +8,7 @@
 - 📫 How to reach me: Instagram:[@_gurungmanish](https://www.instagram.com/_gurungmanish/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Tech guy in love with music and mountains!
-- https://github-readme-stats.vercel.app/api/top-langs/?username=manisjunggrg&layout=compact
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=manisjunggrg&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=manisjunggrg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 *I code with 😗
 <p>
